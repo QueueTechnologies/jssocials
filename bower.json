@@ -1,6 +1,6 @@
 {
     "name": "jssocials",
-    "version": "1.5.",
+    "version": "1.5.2",
     "main": [
         "dist/jssocials.js",
         "dist/jssocials.css"
